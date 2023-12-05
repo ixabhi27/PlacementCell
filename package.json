@@ -11,7 +11,7 @@
     "start": "node index.js"
   },
   
-  "author": "Rishi Raj Anand",
+  "author": "Abhishek Kumar",
   "license": "ISC",
 
   "dependencies": {
